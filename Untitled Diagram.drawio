@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T12:31:18.161Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="6ISdQ0wDMuLg02EhsNc_" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T12:53:22.180Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="oRpIJeLHhz0K73a7TtOf" version="13.8.2" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="946" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bDlpXfw5Zj30vENpwn_l-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="bDlpXfw5Zj30vENpwn_l-12" target="bDlpXfw5Zj30vENpwn_l-17">
+        <mxCell id="bDlpXfw5Zj30vENpwn_l-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bDlpXfw5Zj30vENpwn_l-12" target="bDlpXfw5Zj30vENpwn_l-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bDlpXfw5Zj30vENpwn_l-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="bDlpXfw5Zj30vENpwn_l-12" target="bDlpXfw5Zj30vENpwn_l-15">
+        <mxCell id="bDlpXfw5Zj30vENpwn_l-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bDlpXfw5Zj30vENpwn_l-12" target="bDlpXfw5Zj30vENpwn_l-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="260" as="targetPoint" />
           </mxGeometry>
@@ -15,14 +15,26 @@
         <mxCell id="bDlpXfw5Zj30vENpwn_l-12" value="接收交易系统mq接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="280" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="bDlpXfw5Zj30vENpwn_l-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bDlpXfw5Zj30vENpwn_l-14" target="bDlpXfw5Zj30vENpwn_l-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bDlpXfw5Zj30vENpwn_l-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bDlpXfw5Zj30vENpwn_l-14" target="bDlpXfw5Zj30vENpwn_l-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bDlpXfw5Zj30vENpwn_l-14" value="第三方（京东）回调接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="425" width="140" height="60" as="geometry" />
+          <mxGeometry x="340" y="480" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bDlpXfw5Zj30vENpwn_l-15" value="发货单入库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bDlpXfw5Zj30vENpwn_l-17" value="第三方（京东）接口调用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="335" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bDlpXfw5Zj30vENpwn_l-22" value="更新发货单状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bDlpXfw5Zj30vENpwn_l-23" value="发送mq到交易系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
