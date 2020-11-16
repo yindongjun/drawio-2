@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T12:52:27.196Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="SJ5pP8ZsbzFMYsngCQDF" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-16T12:55:03.913Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="KoJJbhqg_eI-KzqqHfTw" version="13.9.9" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="946" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,7 +70,7 @@
         <mxCell id="bDlpXfw5Zj30vENpwn_l-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bDlpXfw5Zj30vENpwn_l-32" target="bDlpXfw5Zj30vENpwn_l-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bDlpXfw5Zj30vENpwn_l-57" value="mq" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bDlpXfw5Zj30vENpwn_l-56" vertex="1" connectable="0">
+        <mxCell id="bDlpXfw5Zj30vENpwn_l-57" value="发货数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bDlpXfw5Zj30vENpwn_l-56" vertex="1" connectable="0">
           <mxGeometry x="-0.1853" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -87,7 +87,7 @@
         <mxCell id="bDlpXfw5Zj30vENpwn_l-17" value="第三方（京东）接口调用" style="rounded=0;whiteSpace=wrap;html=1;" parent="bDlpXfw5Zj30vENpwn_l-37" vertex="1">
           <mxGeometry x="40" y="195" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pKp_l9CU3mLyf008OWpG-1" value="信息映射" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bDlpXfw5Zj30vENpwn_l-37">
+        <mxCell id="pKp_l9CU3mLyf008OWpG-1" value="信息映射 / 校验" style="rounded=0;whiteSpace=wrap;html=1;" parent="bDlpXfw5Zj30vENpwn_l-37" vertex="1">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bDlpXfw5Zj30vENpwn_l-38" value="第三方（京东）回调接口" style="swimlane;" parent="1" vertex="1">
@@ -105,7 +105,7 @@
         <mxCell id="bDlpXfw5Zj30vENpwn_l-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="bDlpXfw5Zj30vENpwn_l-17" target="bDlpXfw5Zj30vENpwn_l-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bDlpXfw5Zj30vENpwn_l-42" value="mq" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="bDlpXfw5Zj30vENpwn_l-32" edge="1">
+        <mxCell id="bDlpXfw5Zj30vENpwn_l-42" value="发货 / 异常信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="bDlpXfw5Zj30vENpwn_l-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="548" y="123" as="targetPoint" />
             <Array as="points">
