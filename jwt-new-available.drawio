@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T00:55:11.927Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="QvocNo4dq9HN3ROhGeMu" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-02T00:56:58.994Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="DoaELMuIB9IFu9ZmySUo" version="16.6.4" type="github">
   <diagram id="Y7qqf7zW7CD9g80kOgZn" name="Page-1">
     <mxGraphModel dx="961" dy="546" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -15,10 +15,10 @@
             <mxPoint x="-1" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hVtpO9R9rN_pp_dcE1at-3" value="apollo server" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#000000;strokeWidth=1;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="hVtpO9R9rN_pp_dcE1at-3" value="apollo server" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#EC4C2C;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="592.5" y="611" width="215" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="hVtpO9R9rN_pp_dcE1at-4" value="user1        [&quot;/api/create&quot;,&quot;/api/get&quot;]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#000000;" parent="hVtpO9R9rN_pp_dcE1at-3" vertex="1">
+        <mxCell id="hVtpO9R9rN_pp_dcE1at-4" value="user1        [&quot;/api/create&quot;,&quot;/api/get&quot;]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#000000;strokeWidth=2;" parent="hVtpO9R9rN_pp_dcE1at-3" vertex="1">
           <mxGeometry y="30" width="215" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hVtpO9R9rN_pp_dcE1at-5" value="user2        [&quot;/api/get&quot;]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#000000;" parent="hVtpO9R9rN_pp_dcE1at-3" vertex="1">
@@ -32,7 +32,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uKDZWHBFVQT2galwE5QR-2" value="Apollo client cache" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="uKDZWHBFVQT2galwE5QR-2" value="Apollo client cache" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#EC4C2C;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="610" y="477.5" width="180" height="75" as="geometry" />
         </mxCell>
         <mxCell id="uKDZWHBFVQT2galwE5QR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.667;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" parent="1" source="uKDZWHBFVQT2galwE5QR-7" target="uKDZWHBFVQT2galwE5QR-8" edge="1">
@@ -43,10 +43,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uKDZWHBFVQT2galwE5QR-7" value="JwtApolloCache" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="uKDZWHBFVQT2galwE5QR-7" value="JwtApolloCache" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#EC4C2C;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="685" y="370" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uKDZWHBFVQT2galwE5QR-8" value="chassis.yaml" style="shape=card;whiteSpace=wrap;html=1;size=20;" parent="1" vertex="1">
+        <mxCell id="uKDZWHBFVQT2galwE5QR-8" value="chassis.yaml" style="shape=card;whiteSpace=wrap;html=1;size=20;strokeColor=#EC4C2C;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="820" y="490" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
