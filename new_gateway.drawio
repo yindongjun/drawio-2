@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T02:36:18.635Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="QpomlSgfPdPHvXK1m5GC" version="17.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-18T02:36:41.078Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="GDWKNVb4Zcr1looSfILM" version="17.0.0" type="github">
   <diagram id="TzxcViBZO3L1NVoKGhuT" name="Page-1">
     <mxGraphModel dx="1129" dy="725" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -93,10 +93,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0f1847-aPTYiUqTa3DHg-36" value="External network" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="56" width="120" height="30" as="geometry" />
+          <mxGeometry x="503" y="71" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0f1847-aPTYiUqTa3DHg-37" value="Internal network" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="786" y="58" width="120" height="30" as="geometry" />
+          <mxGeometry x="768" y="71" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
