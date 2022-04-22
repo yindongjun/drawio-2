@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T06:51:01.462Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="qzhy4Pi88x1QJZ9LdZKP" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-22T06:52:21.158Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Qbth07OpaJndAVMVInle" version="17.4.1" type="github">
   <diagram id="QvDF3mbYiKVMr7kdvqhT" name="Page-1">
     <mxGraphModel dx="891" dy="496" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -118,6 +118,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="904.5999999999999" y="337.79999999999995" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="o8WecB8PrewY6XZWQQZf-50" value="get&amp;nbsp; X_Ssc_Global_Id&amp;nbsp;&lt;br&gt;from header" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.53;direction=west;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="298" y="626" width="148" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
