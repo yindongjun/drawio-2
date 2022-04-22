@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T08:00:05.289Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="3TTE2ZBWituDoa4QWO7H" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-22T08:01:00.289Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="-lHwUU1YbZJx7Kc4IlAt" version="17.4.1" type="github">
   <diagram id="HoGcU0mEmMi8AQ9o4Wg-" name="Page-1">
-    <mxGraphModel dx="1188" dy="662" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,11 +31,14 @@
         <mxCell id="Zu65PiX_Fs4sWuQjeC40-11" value="chassis_client" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="Zu65PiX_Fs4sWuQjeC40-7">
           <mxGeometry x="410" y="68.75" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zu65PiX_Fs4sWuQjeC40-25" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;dashed=1;" edge="1" parent="Zu65PiX_Fs4sWuQjeC40-7">
+        <mxCell id="Zu65PiX_Fs4sWuQjeC40-25" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;dashed=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Zu65PiX_Fs4sWuQjeC40-7" source="Zu65PiX_Fs4sWuQjeC40-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="145" y="129" as="sourcePoint" />
             <mxPoint x="86" y="174" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Zu65PiX_Fs4sWuQjeC40-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.465;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontColor=#000000;" edge="1" parent="1" source="Zu65PiX_Fs4sWuQjeC40-13" target="Zu65PiX_Fs4sWuQjeC40-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zu65PiX_Fs4sWuQjeC40-13" value="Service B" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="595" y="557" width="423" height="175" as="geometry" />
